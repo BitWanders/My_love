@@ -4,7 +4,7 @@ function oui() {
     
     // Afficher la photo
     const photoContainer = document.getElementById('photoContainer');
-    photoContainer.innerHTML = '<img src="img/photo.heic" alt="Nous deux">';
+    photoContainer.innerHTML = '<img src="img/photo.jpg" alt="Nous deux">';
     photoContainer.classList.add('show');
     
     // Créer des cœurs animés qui explosent
